@@ -1,0 +1,20 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="ly.generalassemb.drewmahrt.userinfotabs.InterestingFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <ImageView
+        android:id="@+id/hitmonLeeImage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/hitmonlee"/>
+
+    <TextView
+        android:id="@+id/hitmonLeeText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="It is interesting to note \n that in some circles, Hitmonlee goes by\nthe popular name of Penis Ninja."/>
+
+</FrameLayout>
